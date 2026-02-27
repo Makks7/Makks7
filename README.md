@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Emmanuel%20Alao&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Building%20Intelligent%20Systems%20with%20Physics-Informed%20AI&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Emmanuel%20Alao&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Physics-Informed%20AI%20%2B%20Industrial%20Machine%20Learning&descAlignY=62&descSize=19"/>
 
   <br>
   
@@ -17,7 +17,7 @@
 
 ### 🎯 The Mission
 
-Physics-informed machine learning for real-time optimization and control.
+Neural networks that respect physics. Gradient boosting that respects the bottom line.
 
 </div>
 
@@ -25,13 +25,15 @@ Physics-informed machine learning for real-time optimization and control.
 
 <div align="center">
 
-| ⚡ Impact | 📊 Metrics |
+### ⚡ Impact
+
+| Gas-Lift Optimization | vs Vanilla NN |
 |:---:|:---:|
-| Gas-Lift Optimization | 20.1% efficiency ↑ |
-| Cost Savings | $3.5M/year |
-| Prediction Accuracy | 95% |
-| Solve Time | 0.261s (10-20× faster) |
-| Gas Reduction | 13% ↓ |
+| **20.1%** efficiency ↑ | 3× more stable |
+| **$3.5M/year** savings | Physics constraints enforced |
+| **95%** accuracy | No unphysical predictions |
+| **0.261s** solve time | 10-20× faster than simulators |
+| **13%** gas reduction | Zero constraint violations |
 
 </div>
 
@@ -39,9 +41,9 @@ Physics-informed machine learning for real-time optimization and control.
 
 <div align="center">
 
-### 🛠️ Stack
+### 🛠️ Arsenal
 
-`Python` • `Julia` • `PyTorch` • `TensorFlow` • `PINNs` • `NMPC` • `MATLAB` • `SciPy` • `NumPy`
+`Python` • `Julia` • `PyTorch` • `TensorFlow` • `XGBoost` • `LightGBM` • `PINNs` • `NMPC` • `SciPy` • `MATLAB`
 
 </div>
 
@@ -49,15 +51,15 @@ Physics-informed machine learning for real-time optimization and control.
 
 <div align="center">
 
-### 🚀 Featured Projects
+### 🚀 Featured
 
-**[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *Julia • Physics-Informed Neural Networks • Real-time NMPC*
+**[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *When physics meets real-time control*
 
-Gas-lift optimization achieving 20% efficiency gains with 0.261s solve time for Niger Delta operations.
+Gas-lift optimization with neural networks that actually understand thermodynamics. 20% efficiency gains, 0.261s solve time, zero constraint violations.
 
-**[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** — *Python • PyTorch • Reactor Control*
+**[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** — *Neural networks with chemical engineering degrees*
 
-Physics-constrained neural networks for isothermal reactor optimization and control.
+Standard NNs predict the impossible. PINNs predict the physically possible. Demonstrated on isothermal reactor dynamics with 100% physics compliance.
 
 </div>
 
@@ -67,14 +69,14 @@ Physics-constrained neural networks for isothermal reactor optimization and cont
 
 ### 🌍 Now
 
-Final Year ChemE @ OAU • Lagos/Ife, Nigeria
+Final Year @ OAU • Lagos/Ife, Nigeria
 
-Exploring the intersection of first-principles engineering and modern AI.
+Turning first-principles into first-class predictions.
 
 </div>
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
