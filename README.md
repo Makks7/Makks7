@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### Domains
+### 🎯 Domains
 Physics-Informed Machine Learning · ML for Industrial Processes · Process Systems Engineering
 
 </div>
@@ -32,7 +32,7 @@ Physics-Informed Machine Learning · ML for Industrial Processes · Process Syst
 
 <div align="center">
 
-### Stack
+### 🛠️ Stack
 `Python` · `Julia` · `PyTorch` · `PINNs` · `NMPC` · `MATLAB` · `SciPy` · `NumPy`
 
 </div>
@@ -41,7 +41,7 @@ Physics-Informed Machine Learning · ML for Industrial Processes · Process Syst
 
 <div align="center">
 
-### Featured Projects
+### 🚀 Featured Projects
 
 **[pH-PINN](https://github.com/Makks7/pH-PINN)** — *PyTorch · MATLAB/Simulink · Real-Time NMPC*
 Physics-informed neural network surrogate for the Henson–Seborg pH neutralization benchmark. Closed-loop offset-free NMPC with output disturbance estimation. Handles extreme nonlinear titration dynamics in **under 25 ms per step**.
@@ -58,7 +58,7 @@ Physics-constrained neural networks for isothermal reactor optimization and cont
 
 <div align="center">
 
-### Now
+### 🌍 Now
 Final Year ChemE @ OAU · Lagos/Ife, Nigeria · Thesis: PINN-based NMPC for chemical process systems
 
 </div>
