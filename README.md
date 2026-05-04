@@ -11,9 +11,8 @@
 
 <div align="center">
 
-### 🎯 Domains
-
-Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Processes
+### Domains
+Physics-Informed Machine Learning · ML for Industrial Processes · Process Systems Engineering
 
 </div>
 
@@ -21,7 +20,7 @@ Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Pr
 
 <div align="center">
 
-| ⚡ System | 📊 Result | 🔧 Stack |
+| System | Result | Stack |
 |:---:|:---|:---|
 | **pH Neutralization NMPC** | `0.015 s/step` · zero offset · 8-step recovery | PyTorch → MATLAB/Simulink |
 | **Gas-Lift Optimization** | 20.1% efficiency ↑ · $3.5M/yr · 0.261s solve | Julia · PINNs |
@@ -33,9 +32,8 @@ Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Pr
 
 <div align="center">
 
-### 🛠️ Stack
-
-`Python` · `Julia` · `PyTorch` · `TensorFlow` · `PINNs` · `NMPC` · `MATLAB` · `SciPy` · `NumPy`
+### Stack
+`Python` · `Julia` · `PyTorch` · `PINNs` · `NMPC` · `MATLAB` · `SciPy` · `NumPy`
 
 </div>
 
@@ -43,18 +41,15 @@ Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Pr
 
 <div align="center">
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[pH-PINN](https://github.com/Makks7/pH-PINN)** — *PyTorch · MATLAB/Simulink · Real-Time NMPC*
-
 Physics-informed neural network surrogate for the Henson–Seborg pH neutralization benchmark. Closed-loop offset-free NMPC with output disturbance estimation. Handles extreme nonlinear titration dynamics in **under 25 ms per step**.
 
 **[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *Julia · Physics-Informed Neural Networks · Real-time NMPC*
-
 Gas-lift optimization achieving 20% efficiency gains with 0.261s solve time for Niger Delta operations.
 
 **[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** — *Python · PyTorch · Reactor Control*
-
 Physics-constrained neural networks for isothermal reactor optimization and control.
 
 </div>
@@ -63,11 +58,8 @@ Physics-constrained neural networks for isothermal reactor optimization and cont
 
 <div align="center">
 
-### 🌍 Now
-
-Final Year ChemE @ OAU · Lagos/Ife, Nigeria
-
-Exploring the intersection of first-principles engineering and modern AI.
+### Now
+Final Year ChemE @ OAU · Lagos/Ife, Nigeria · Thesis: PINN-based NMPC for chemical process systems
 
 </div>
 
