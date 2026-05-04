@@ -21,13 +21,11 @@ Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Pr
 
 <div align="center">
 
-| ⚡ Impact | 📊 Metrics |
-|:---:|:---|
-| **Gas-Lift Optimization** | 20.1% efficiency ↑ |
-| **Cost Savings** | $3.5M/year |
-| **Prediction Accuracy** | 95% |
-| **Solve Time** | 0.261s (10–20× faster) |
-| **Gas Reduction** | 13% ↓ |
+| ⚡ System | 📊 Result | 🔧 Stack |
+|:---:|:---|:---|
+| **pH Neutralization NMPC** | `0.015 s/step` · zero offset · 8-step recovery | PyTorch → MATLAB/Simulink |
+| **Gas-Lift Optimization** | 20.1% efficiency ↑ · $3.5M/yr · 0.261s solve | Julia · PINNs |
+| **Isothermal CSTR Control** | Setpoint tracking · real-time feasible | PyTorch · NMPC |
 
 </div>
 
@@ -46,6 +44,10 @@ Physics-Informed Machine Learning · Energy & Innovation · ML for Industrial Pr
 <div align="center">
 
 ### 🚀 Featured Projects
+
+**[pH-PINN](https://github.com/Makks7/pH-PINN)** — *PyTorch · MATLAB/Simulink · Real-Time NMPC*
+
+Physics-informed neural network surrogate for the Henson–Seborg pH neutralization benchmark. Closed-loop offset-free NMPC with output disturbance estimation. Handles extreme nonlinear titration dynamics in **under 25 ms per step**.
 
 **[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *Julia · Physics-Informed Neural Networks · Real-time NMPC*
 
