@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:0f2027,100:203a43&height=220&section=header&text=Emmanuel%20Alao&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Chemical%20Engineer%20×%20Physics-Informed%20AI&descAlignY=65&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,40:0f2027,100:203a43&height=220&section=header&text=Emmanuel%20Alao&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Physics-Informed%20AI%20for%20Real-Time%20Process%20Control&descAlignY=65&descSize=18"/>
 </div>
 
 <br>
@@ -32,8 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=Makks7&color=4FC3F7&style=flat-square&label=profile+views"/>
 </div>
 
----
-I build physics-informed neural networks that run fast enough to be useful; surrogate models deployed inside nonlinear MPC loops for real-time chemical process control. My thesis closes the loop between scientific machine learning and practical process systems engineering.
 ---
 
 ## Results
