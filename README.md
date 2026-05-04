@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Emmanuel%20Alao&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Building%20Intelligent%20Systems%20with%20Physics-Informed%20AI&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Emmanuel%20Alao&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Physics-Informed%20AI%20for%20Real-Time%20Process%20Control&descAlignY=65&descSize=18"/>
 
   <br>
   
@@ -17,7 +17,7 @@
 
 ### 🎯 Domains
 
-Physics-Informed Machine Learning, Energy & Innovation, ML for Industrial Processes
+Physics-Informed Neural Networks · Nonlinear MPC · Industrial Process Optimization
 
 </div>
 
@@ -25,13 +25,11 @@ Physics-Informed Machine Learning, Energy & Innovation, ML for Industrial Proces
 
 <div align="center">
 
-| ⚡ Impact | 📊 Metrics |
-|:---:|:---:|
-| Gas-Lift Optimization | 20.1% efficiency ↑ |
-| Cost Savings | $3.5M/year |
-| Prediction Accuracy | 95% |
-| Solve Time | 0.261s (10-20× faster) |
-| Gas Reduction | 13% ↓ |
+| ⚡ System | 📊 Result | 🔧 Stack |
+|:---|:---|:---|
+| **pH Neutralization NMPC** | 0.015s/step · Zero offset · 8-step recovery | PyTorch → MATLAB/Simulink |
+| **Isothermal CSTR Control** | Setpoint tracking · Real-time feasible | PyTorch · NMPC |
+| **Gas-Lift Optimization** | 13.4% gas ↓ · $3.5M/yr saved · 0.261s solve | Julia · PINNs |
 
 </div>
 
@@ -41,7 +39,7 @@ Physics-Informed Machine Learning, Energy & Innovation, ML for Industrial Proces
 
 ### 🛠️ Stack
 
-`Python` • `Julia` • `PyTorch` • `TensorFlow` • `PINNs` • `NMPC` • `MATLAB` • `SciPy` • `NumPy`
+`Python` · `Julia` · `PyTorch` · `MATLAB` · `Simulink` · `PINNs` · `NMPC` · `SciPy` · `NumPy`
 
 </div>
 
@@ -51,13 +49,17 @@ Physics-Informed Machine Learning, Energy & Innovation, ML for Industrial Proces
 
 ### 🚀 Featured Projects
 
-**[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *Julia • Physics-Informed Neural Networks • Real-time NMPC*
+**[pH-PINN](https://github.com/Makks7/pH-PINN)** — *PyTorch · MATLAB · Real-Time NMPC*
 
-Gas-lift optimization achieving 20% efficiency gains with 0.261s solve time for Niger Delta operations.
+Physics-informed neural network surrogate for Hensen-Seborg pH neutralization, deployed in closed-loop NMPC with disturbance estimation. Handles extreme nonlinear titration dynamics with 0.015–0.024 s/step solve time.
 
-**[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** — *Python • PyTorch • Reactor Control*
+**[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** — *PyTorch · Process Control*
 
-Physics-constrained neural networks for isothermal reactor optimization and control.
+Physics-constrained neural networks for isothermal reactor setpoint tracking.
+
+**[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** — *Julia · Optimization*
+
+Gas-lift optimization achieving 13.4% gas consumption reduction for Niger Delta operations.
 
 </div>
 
@@ -65,11 +67,9 @@ Physics-constrained neural networks for isothermal reactor optimization and cont
 
 <div align="center">
 
-### 🌍 Now
+### 📝 Now
 
-Final Year ChemE @ OAU • Lagos/Ife, Nigeria
-
-Exploring the intersection of first-principles engineering and modern AI.
+Final Year ChemE @ OAU · Writing thesis on PINN-based NMPC for chemical process systems
 
 </div>
 
@@ -78,3 +78,4 @@ Exploring the intersection of first-principles engineering and modern AI.
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
 
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makks7&show_icons=true&theme=dark&hide_border=true)
