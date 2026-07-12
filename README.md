@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Emmanuel%20Alao&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Physics%20problems%20are%20often%20misread%20as%20data%20problems&descSize=14&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Emmanuel%20Alao&fontSize=44&fontColor=e6edf3&fontAlignY=32"/>
 </div>
+
+<p align="center">
+  <i>Physics problems are often misread as data problems.</i>
+</p>
+
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/emmanuelalao"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1f6feb"/></a>
@@ -9,10 +15,14 @@
   <a href="mailto:alaoemmanuel100@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
 </div>
 
+<br>
+
 <p align="center">
-  <sub>Chemical engineer building ML systems for process and energy operations.<br>
-  Final year, Obafemi Awolowo University.</sub>
+  <sub>I build models that carry their own constraints. Right now that means chemical processes and energy systems,<br>
+  but the method was never really about the domain.</sub>
 </p>
+
+<br>
 
 ## Research
 
@@ -22,27 +32,35 @@
 >
 > **R² 0.9962** &nbsp;|&nbsp; **0.015 s/step** &nbsp;|&nbsp; offset-free vs. LSTM and linear MPC baselines
 
+<br>
+
 > **[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** &nbsp;·&nbsp; `Julia` `Flux.jl`
 >
 > Gas-lift allocation for Niger Delta wells, solved fast enough to sit inside a real-time loop.
 >
 > **+20.1% efficiency** &nbsp;|&nbsp; **$3.5M/yr** &nbsp;|&nbsp; **0.261s solve**
 
+<br>
+
 > **ML-RBI** &nbsp;·&nbsp; `XGBoost` `LightGBM`
 >
-> Risk-based inspection across 20,000 Niger Delta equipment records, validated out-of-time and aligned to API 581.
+> Risk-based inspection across 20,000 equipment records, validated out-of-time and aligned to API 581.
 >
 > **AUC-ROC 0.858**
+
+<br>
 
 > **[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** &nbsp;·&nbsp; `PyTorch`
 >
 > Physics-constrained networks for isothermal reactor control. Setpoint tracking, real-time feasible.
 
-## Papers
+<br>
 
-**AIChE Annual Meeting 2026** &nbsp;·&nbsp; Poster, Systems & Process Control (chair: Prodromos Daoutidis) &nbsp;·&nbsp; Minneapolis, Nov 2026<br>
-**SPE NAICE 2026** &nbsp;·&nbsp; *ML-Based Risk Inspection for Ageing Niger Delta Assets* &nbsp;·&nbsp; First author<br>
-**SPE STSE 2026** &nbsp;·&nbsp; *PINN-MPC for Gas-Lift Optimization* &nbsp;·&nbsp; First author, presented in Warri
+## Elsewhere
+
+<sub>Two first-author papers with SPE. A poster at AIChE this November.</sub>
+
+<br>
 
 ## Stack
 
@@ -50,4 +68,9 @@
 
 <sub>`Flux.jl` &nbsp; `Zygote.jl` &nbsp; `Aspen Plus` &nbsp; `XGBoost` &nbsp; `Simulink` &nbsp; `NumPy` &nbsp; `SciPy`</sub>
 
-<p align="center"><sub>Currently: PINN-NMPC for chemical process systems, and whatever runs offline on my own hardware.</sub></p>
+<br>
+
+<p align="center">
+  <sub>Final year Chemical Engineering, Obafemi Awolowo University.<br>
+  Currently teaching neural networks to respect conservation laws, and finding out what runs offline.</sub>
+</p>
