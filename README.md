@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Hi,%20I'm%20Emmanuel&fontSize=40&fontColor=e6edf3&fontAlignY=32"/>
 </div>
 
-<p align="center">
-  <sub>I build models that carry their own constraints.</sub>
-</p>
-
-<br>
-
 <div align="center">
   <a href="https://linkedin.com/in/emmanuelalao"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1f6feb"/></a>
   <a href="https://twitter.com/tiemmaal"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3"/></a>
