@@ -45,9 +45,11 @@
 
 ## Elsewhere
 
-<sub>Writing at <a href="https://emmanuelalao.substack.com">Substack</a>, no fixed subject.<br>
-Building AI that runs on hardware I own.<br>
-Two papers with the Society of Petroleum Engineers. A poster at AIChE, Minneapolis.</sub>
+Writing at [Substack](https://emmanuelalao.substack.com).
+
+Building AI that runs on hardware I own.
+
+Two papers with the Society of Petroleum Engineers. A poster at AIChE, Minneapolis.
 
 <br>
 
@@ -55,4 +57,4 @@ Two papers with the Society of Petroleum Engineers. A poster at AIChE, Minneapol
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,julia,matlab&theme=dark"/>
 
-<sub>&nbsp;&nbsp;Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; Julia &nbsp;·&nbsp; MATLAB</sub>
+`Python` &nbsp; `PyTorch` &nbsp; `Julia` &nbsp; `MATLAB`
