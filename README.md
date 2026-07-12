@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Emmanuel%20Alao&fontSize=44&fontColor=e6edf3&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Hi,%20I'm%20Emmanuel&fontSize=40&fontColor=e6edf3&fontAlignY=32"/>
 </div>
 
 <p align="center">
-  <i>Physics problems are often misread as data problems.</i>
+  <sub>I build models that carry their own constraints.</sub>
 </p>
 
 <br>
@@ -17,16 +17,9 @@
 
 <br>
 
-<p align="center">
-  <sub>I build models that carry their own constraints. Right now that means chemical processes and energy systems,<br>
-  but the method was never really about the domain.</sub>
-</p>
-
-<br>
-
 ## Research
 
-> **[pH-PINN](https://github.com/Makks7/pH-PINN)** &nbsp;·&nbsp; `PyTorch` `MATLAB/Simulink`
+> **[pH-PINN](https://github.com/Makks7/pH-PINN)** &nbsp;·&nbsp; `PyTorch` `MATLAB`
 >
 > Physics-informed surrogate for the Henson–Seborg pH neutralization benchmark, driving a closed-loop NMPC with output disturbance estimation.
 >
@@ -34,7 +27,7 @@
 
 <br>
 
-> **[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** &nbsp;·&nbsp; `Julia` `Flux.jl`
+> **[PINN-gas-lift](https://github.com/Makks7/PINN-gas-lift)** &nbsp;·&nbsp; `Julia`
 >
 > Gas-lift allocation for Niger Delta wells, solved fast enough to sit inside a real-time loop.
 >
@@ -42,7 +35,7 @@
 
 <br>
 
-> **ML-RBI** &nbsp;·&nbsp; `XGBoost` `LightGBM`
+> **ML-RBI** &nbsp;·&nbsp; `Python`
 >
 > Risk-based inspection across 20,000 equipment records, validated out-of-time and aligned to API 581.
 >
@@ -64,13 +57,6 @@
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,julia,pytorch,matlab,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,julia,matlab&theme=dark"/>
 
-<sub>`Flux.jl` &nbsp; `Zygote.jl` &nbsp; `Aspen Plus` &nbsp; `XGBoost` &nbsp; `Simulink` &nbsp; `NumPy` &nbsp; `SciPy`</sub>
-
-<br>
-
-<p align="center">
-  <sub>Final year Chemical Engineering, Obafemi Awolowo University.<br>
-  Currently teaching neural networks to respect conservation laws, and finding out what runs offline.</sub>
-</p>
+<sub>&nbsp;&nbsp;Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; Julia &nbsp;·&nbsp; MATLAB</sub>
