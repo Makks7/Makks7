@@ -45,7 +45,9 @@
 
 ## Elsewhere
 
-<sub>Two first-author papers with SPE. A poster at AIChE this November.</sub>
+<sub>Writing at <a href="https://emmanuelalao.substack.com">Substack</a>, no fixed subject.<br>
+Building AI that runs on hardware I own.<br>
+Two papers with the Society of Petroleum Engineers. A poster at AIChE, Minneapolis.</sub>
 
 <br>
 
