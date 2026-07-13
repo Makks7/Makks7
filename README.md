@@ -37,12 +37,6 @@
 
 <br>
 
-> **[PINNs-for-isothermal-CSTR](https://github.com/Makks7/PINNs-for-isothermal-CSTR)** &nbsp;·&nbsp; `PyTorch`
->
-> Physics-constrained networks for isothermal reactor control. Setpoint tracking, real-time feasible.
-
-<br>
-
 ## Elsewhere
 
 Writing at [Substack](https://emmanuelalao.substack.com).
